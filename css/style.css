@@ -1,0 +1,11 @@
+.container h1{
+	text-align: center;
+	color:#333;
+}
+.container ul{
+	width: 300px;
+	display: flex;
+	align-items: center;
+	justify-content: space-evenly;
+	
+}
